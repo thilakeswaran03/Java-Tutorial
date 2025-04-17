@@ -26,6 +26,8 @@ public class inherit {
         Dog dog = new Dog();
         dog.bark();
         animal.eat();
+        Cat cat = new Cat();
+        cat.meow();
 
     }
 }
