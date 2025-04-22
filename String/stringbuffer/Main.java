@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        StringBuilder sb = new StringBuilder("Thilakes");
+        StringBuffer sb = new StringBuffer("Thilakes");
         System.out.println("original String: "+sb);
 
         //append
